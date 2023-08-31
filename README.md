@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kdizzlle
-- 🌱 I’m currently majoring in Computer Engineering
-- 📫 How to reach me ... Instagram: @jkellybean      Discord: kdizzy#2492
+- 🌱 I’m currently majoring in Computer Engineering at Cal Poly Pomona
 
 <!---
 kdizzlle/kdizzlle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
